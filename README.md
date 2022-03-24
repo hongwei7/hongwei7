@@ -1,5 +1,5 @@
 ### Hi there 👋
-💻 👉[Blog](https://brucemarkdown.top)
+💻 👉[Blog](https://hongwei7.github.io/)
 <!--
 **hongwei7/hongwei7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
